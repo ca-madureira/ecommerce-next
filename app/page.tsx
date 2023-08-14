@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Container from './components/Container';
-import { products } from '@/utils/products';
+import { products } from '../utils/products';
 import HomeBanner from './components/HomeBanner';
 import { truncateText } from '@/utils/truncateText';
 import ProductCard from './components/products/ProductCard';
