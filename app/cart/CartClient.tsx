@@ -22,7 +22,7 @@ const CartClient = () => {
             className="text-slate-500 flex items-center gap-1 mt-2"
           >
             <MdArrowBack />
-            <span>Start Shopping</span>
+            <span>Ir à loja</span>
           </Link>
         </div>
       </div>
@@ -32,9 +32,9 @@ const CartClient = () => {
     <div>
       <Heading title="Shopping Cart" center />
       <div className="grid grid-cols-5 text-xs gap-4 pb-2 items-center mt-8">
-        <div className="col-span-2 justify-self-start">PRODUCT</div>
-        <div className="justify-self-center">PRICE</div>
-        <div className="justify-self-center">QUANTITY</div>
+        <div className="col-span-2 justify-self-start">PRODUTO</div>
+        <div className="justify-self-center">PREÇO</div>
+        <div className="justify-self-center">QUANTIDADE</div>
         <div className="justify-self-end">TOTAL</div>
       </div>
       <div>
@@ -60,7 +60,7 @@ const CartClient = () => {
             <span>{formatPrice(cartTotalAmount)}</span>
           </div>
           <p className="text-slate-500">
-            Taxes and shipping calculate at chekckout
+            Impostos e frete calculam em chekckout
           </p>
           <Button label="Checkout" onClick={() => {}} />
           <Link
