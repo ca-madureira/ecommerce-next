@@ -33,7 +33,7 @@ Para executar o projeto, siga estas etapas:
   npm run dev
   ```
 
-  ### Imagens do projeto
+### Imagem do projeto
 
 ![image](https://github.com/ca-madureira/ecommerce-next/assets/121184472/e89c114f-c228-4137-9397-0df6d8b8d99b)
 
