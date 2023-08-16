@@ -10,7 +10,7 @@ Ecommerce de eletrônicos desenvolvido em Next Js, React Js, Typescript, Tailwin
 
 ### Features
 - [x] Registro e Login de usuário
-    - Login com google
+    - Login com Google
     - Cadastro realizado utilizando o prisma e mongodb
  - [ ] Caixa de pesquisa de produtos 
  - [x] Mostrar detalhes de cada produto selecionado
