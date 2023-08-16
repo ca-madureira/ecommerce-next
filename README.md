@@ -5,6 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 Ecommerce de eletrônicos desenvolvido em Next Js, React Js, Typescript, TailwindCSS, Prisma e MongoDB.
+#### Aula ministrada por: [Chaoo Charles](https://www.youtube.com/@ChaooCharles)
 
 
 ### Features
