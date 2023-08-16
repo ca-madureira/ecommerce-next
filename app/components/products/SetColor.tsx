@@ -19,7 +19,7 @@ const SetColor: React.FC<SetColorProps> = ({
   return (
     <div>
       <div className="flex gap-4 items-center">
-        <span className="font-semibold">COLOR:</span>
+        <span className="font-semibold">COR:</span>
         <div className="flex gap-1">
           {images.map((image) => {
             return (

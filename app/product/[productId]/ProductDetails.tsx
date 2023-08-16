@@ -105,21 +105,25 @@ const ProductDetails: React.FC<ProductDetailsProps> = ({ product }) => {
         <h2 className="text-3xl font-medium text-slate-700">{product.name}</h2>
         <div className="flex items-center gap-2">
           <Rating value={productRating} readOnly />
-          <div>{product.reviews.length}reviews</div>
+          <div>{`${
+            product.reviews.length > 1
+              ? product.reviews.length + ' avaliações'
+              : '1 avaliação'
+          }`}</div>
         </div>
         <Horizontal />
         <div className="text-justify">{product.description}</div>
         <Horizontal />
         <div>
-          <span className="font-semibold">CATEGORY:</span>
+          <span className="font-semibold">CATEGORIA:</span>
           {product.category}
         </div>
         <div>
-          <span className="font-semibold">BRAND:</span>
+          <span className="font-semibold">MARCA:</span>
           {product.brand}
         </div>
         <div className={product.inStock ? 'text-teal-400' : 'text-rose-400'}>
-          {product.inStock ? 'In Stock' : 'Out of stock'}
+          {product.inStock ? 'Em estoque' : 'Sem estoque'}
         </div>
         <Horizontal />
         {isProductInCart ? (
@@ -130,7 +134,7 @@ const ProductDetails: React.FC<ProductDetailsProps> = ({ product }) => {
             </p>
             <div>
               <Button
-                label="View Cart"
+                label="Ver carrinho"
                 outline
                 onClick={() => {
                   router.push('/cart');

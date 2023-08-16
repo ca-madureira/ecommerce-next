@@ -46,11 +46,11 @@ export const products = [
         userId: '6475af156bad4917456e6e1e',
         productId: '64a4ebe300900d44bb50628a',
         rating: 5,
-        comment: 'good',
+        comment: 'muito bom! Super indico!',
         createdDate: '2023-07-06T06:08:33.067Z',
         user: {
           id: '6475af156bad4917456e6e1e',
-          name: 'Charles',
+          name: 'Julio',
           email: 'example@gmail.com',
           emailVerified: null,
           image:
@@ -99,11 +99,11 @@ export const products = [
         productId: '648437b38c44d52b9542e340',
         rating: 4,
         comment:
-          'good enough. I like the camera and casing. the delivery was fast too.',
+          'bom o suficiente. Eu gosto da câmera e do invólucro. A entrega também foi rápida.',
         createdDate: '2023-06-26T15:53:44.483Z',
         user: {
           id: '6499b184b0e9a8c8709821d3',
-          name: 'Chaoo',
+          name: 'Laura',
           email: 'example1@gmail.com',
           emailVerified: null,
           image:
@@ -119,11 +119,11 @@ export const products = [
         userId: '6475af156bad4917456e6e1e',
         productId: '648437b38c44d52b9542e340',
         rating: 5,
-        comment: 'I really liked it!!',
+        comment: 'Eu amei!!',
         createdDate: '2023-06-26T14:30:40.998Z',
         user: {
           id: '6475af156bad4917456e6e1e',
-          name: 'Charles',
+          name: 'Carlos',
           email: 'example@gmail.com',
           emailVerified: null,
           image:

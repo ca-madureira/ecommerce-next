@@ -24,7 +24,6 @@ const LoginForm: React.FC<LoginFormProps> = ({ currentUser }) => {
     formState: { errors },
   } = useForm<FieldValues>({
     defaultValues: {
-      name: '',
       email: '',
       password: '',
     },
