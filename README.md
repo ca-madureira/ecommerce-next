@@ -34,8 +34,12 @@ Para executar o projeto, siga estas etapas:
   ```
 
   ### Imagens do projeto
-  ![image](https://github.com/ca-madureira/ecommerce-next/assets/121184472/039c7ba4-ea2f-4ac8-bd35-ea390a009ecd)
-  ![image](https://github.com/ca-madureira/ecommerce-next/assets/121184472/636a9eb9-76e4-432e-8a28-67a88514ade8)
+
+![image](https://github.com/ca-madureira/ecommerce-next/assets/121184472/e89c114f-c228-4137-9397-0df6d8b8d99b)
+
+
+
+
 
 
 
