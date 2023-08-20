@@ -16,7 +16,7 @@ Ecommerce de eletrônicos desenvolvido em Next Js, React Js, Typescript, Tailwin
  - [x] Mostrar detalhes de cada produto selecionado
  - [x] Adicionar o produto ao carrinho de compras
  - [x] Limpar carrinho
- - [ ] Checkout utilizando a plataforma stripe
+ - [x] Checkout utilizando a plataforma stripe
 -  [ ] Painel do Administrador 
 
 
