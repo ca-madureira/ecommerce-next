@@ -16,7 +16,7 @@ Ecommerce de eletrônicos desenvolvido em Next Js, React Js, Typescript, Tailwin
  - [x] Mostrar detalhes de cada produto selecionado
  - [x] Adicionar o produto ao carrinho de compras
  - [x] Limpar carrinho
- - [ ] Checkout utilizando a plataforma stripe
+ - [x] Checkout utilizando a plataforma stripe
 -  [ ] Painel do Administrador 
 
 
@@ -34,9 +34,15 @@ Para executar o projeto, siga estas etapas:
   npm run dev
   ```
 
-### Imagem do projeto
-
+### Imagens do projeto:
+#### Pagina inicial
 ![image](https://github.com/ca-madureira/ecommerce-next/assets/121184472/e89c114f-c228-4137-9397-0df6d8b8d99b)
+#### Carrinho
+![image](https://github.com/ca-madureira/ecommerce-next/assets/121184472/966c4922-4230-457f-b527-e9c6375d0cfa)
+#### Checkout
+![image](https://github.com/ca-madureira/ecommerce-next/assets/121184472/534ca232-f634-49d7-8bf7-16db43a86d8e)
+
+
 
 
 
