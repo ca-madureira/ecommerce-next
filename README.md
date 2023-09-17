@@ -12,12 +12,11 @@ Ecommerce de eletrônicos desenvolvido em Next Js, React Js, Typescript, Tailwin
 - [x] Registro e Login de usuário
     - Login com Google
     - Cadastro realizado utilizando o prisma e mongodb
- - [ ] Caixa de pesquisa de produtos 
  - [x] Mostrar detalhes de cada produto selecionado
  - [x] Adicionar o produto ao carrinho de compras
  - [x] Limpar carrinho
  - [x] Checkout utilizando a plataforma stripe
--  [ ] Painel do Administrador 
+
 
 
 
